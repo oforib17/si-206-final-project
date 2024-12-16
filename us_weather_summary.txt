@@ -1,0 +1,11 @@
+City	Region	Avg Temp	Highest Temp	Lowest Temp
+Chicago	IL	31.830000000000002	55.6	12.4
+Dallas	TX	48.839999999999996	73.4	33.1
+Houston	TX	57.33	75.2	41.0
+Jacksonville	FL	55.58	74.5	41.0
+Los Angeles	CA	56.73	81.0	43.3
+New York City	NY	41.45	57.2	30.9
+Philadelphia	PA	40.54	64.4	26.1
+Phoenix	AZ	63.69	82.0	44.6
+San Antonio	TX	55.779999999999994	80.6	37.4
+San Diego	CA	57.8	78.8	42.8
